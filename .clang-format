@@ -1,0 +1,9 @@
+# https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+
+BasedOnStyle: Webkit
+
+AlignArrayOfStructures: Left
+IndentPPDirectives: BeforeHash
+IndentWidth: 4
+TabWidth: 4
+UseTab: AlignWithSpaces
